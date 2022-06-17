@@ -1,0 +1,15 @@
+C:\Users\Kombajn\source\repos\TestyNUnit\bin\Debug\net5.0\TestyNUnit.exe
+C:\Users\Kombajn\source\repos\TestyNUnit\bin\Debug\net5.0\TestyNUnit.deps.json
+C:\Users\Kombajn\source\repos\TestyNUnit\bin\Debug\net5.0\TestyNUnit.runtimeconfig.json
+C:\Users\Kombajn\source\repos\TestyNUnit\bin\Debug\net5.0\TestyNUnit.runtimeconfig.dev.json
+C:\Users\Kombajn\source\repos\TestyNUnit\bin\Debug\net5.0\TestyNUnit.dll
+C:\Users\Kombajn\source\repos\TestyNUnit\bin\Debug\net5.0\ref\TestyNUnit.dll
+C:\Users\Kombajn\source\repos\TestyNUnit\bin\Debug\net5.0\TestyNUnit.pdb
+C:\Users\Kombajn\source\repos\TestyNUnit\obj\Debug\net5.0\TestyNUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kombajn\source\repos\TestyNUnit\obj\Debug\net5.0\TestyNUnit.AssemblyInfoInputs.cache
+C:\Users\Kombajn\source\repos\TestyNUnit\obj\Debug\net5.0\TestyNUnit.AssemblyInfo.cs
+C:\Users\Kombajn\source\repos\TestyNUnit\obj\Debug\net5.0\TestyNUnit.csproj.CoreCompileInputs.cache
+C:\Users\Kombajn\source\repos\TestyNUnit\obj\Debug\net5.0\TestyNUnit.dll
+C:\Users\Kombajn\source\repos\TestyNUnit\obj\Debug\net5.0\ref\TestyNUnit.dll
+C:\Users\Kombajn\source\repos\TestyNUnit\obj\Debug\net5.0\TestyNUnit.pdb
+C:\Users\Kombajn\source\repos\TestyNUnit\obj\Debug\net5.0\TestyNUnit.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kombajn\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kombajn\\.nuget\\packages"
+    ]
+  }
+}
